@@ -25,6 +25,7 @@
 1. Donald E. Knuth "The Art of Computer Programming", 2011
   * [Buy all 4 tomes](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?s=books&ie=UTF8&qid=1473862639&sr=1-1&keywords=the+art+of+computer+programming1)
   * [Download](http://www.projectetal.com/forums/index.php?threads/the-art-of-computer-programming-vols-1-3-by-donald-knuth.8415/)
+
 ### Computational Neuroscience
 1. Peter Dayan "Theoretical Neuroscience", 2005
   * [Buy](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1473863346&sr=1-1&keywords=Theoretical+Neuroscience)
